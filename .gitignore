@@ -1,0 +1,12 @@
+# Archivos de resultados grandes
+embeddings_prueba_resultado.csv
+
+# Entorno virtual
+env_ia/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
